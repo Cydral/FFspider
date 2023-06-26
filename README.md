@@ -13,6 +13,6 @@
   <li><strong>TODO:</strong> Support for handling JavaScript-rendered pages using headless browsers.</li>
   <li>Extensible architecture for adding custom data processing and storage options.</li>
   <li>In-memory object database system to maximize performance during the crawling and processing of images.</li>
-  <li>automatically image storing during the crawling process to a local cache directory for future reuse.</li>
+  <li>Automatically image storing during the crawling process to a local cache directory for future reuse.</li>
   <li>Configurable options for controlling crawling behavior.</li>
 </ul>
