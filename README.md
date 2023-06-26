@@ -17,7 +17,7 @@
   <li>Configurable options for controlling crawling behavior.</li>
 </ul>
 
-<h3>Prerequisites</h3>
+<h2>Prerequisites</h2>
 <p>The FFspider program has several external dependencies that need to be installed before use:</p>
 <ul>
   <li><a href="https://github.com/google/gumbo-parser">Gumbo</a>: Gumbo is a library used for parsing HTML and extracting information from web pages.</li>
