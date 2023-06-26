@@ -40,5 +40,12 @@
   <li>It is recommended to compile FFspider in x64 mode for optimal performance and compatibility.</li>
   <li>Build the FFspider project.</li>
 </ol>
-
 <p>After successful compilation and execution, you will be able to use FFspider for crawling websites and processing/storing images on a local machine.</p>
+
+<h2>License</h2>
+<p>FFspider is released under the <a href="https://github.com/your/repository/blob/main/LICENSE">MIT License</a>.</p>
+
+<h2>Contact</h2>
+<p>For any questions or feedback, feel free to reach out to us through the GitHub repository.</p>
+
+<p align="center">Happy crawling with FFspider!</p>
