@@ -16,3 +16,15 @@
   <li>Automatically image storing during the crawling process to a local cache directory for future reuse.</li>
   <li>Configurable options for controlling crawling behavior.</li>
 </ul>
+
+<h3>Prerequisites</h3>
+<p>The FFspider program has several external dependencies that need to be installed before use:</p>
+<ul>
+  <li><a href="https://github.com/google/gumbo-parser">Gumbo</a>: Gumbo is a library used for parsing HTML and extracting information from web pages.</li>
+  <li><a href="https://github.com/fnc12/sqlite_orm">Sqlite_orm</a>: Sqlite_orm is a lightweight header-only C++ library for easy object-relational mapping (ORM) with SQLite.</li>
+  <li><a href="https://www.boost.org/">Boost</a>: Boost provides various libraries for C++ programming, including utilities, algorithms, and data structures.</li>
+  <li><a href="http://dlib.net/">Dlib</a>: Dlib is a general-purpose cross-platform C++ library that includes machine learning algorithms and tools for image processing.</li>
+  <li><a href="https://github.com/whoshuu/cpr">Cpr</a>: Cpr is a C++ library for making HTTP requests.</li>
+</ul>
+<p>Please make sure to install these dependencies before proceeding with the FFspider program.</p>
+
