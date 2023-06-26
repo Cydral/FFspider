@@ -17,7 +17,8 @@
   <li>Configurable options for controlling crawling behavior.</li>
 </ul>
 
-<h2>Prerequisites</h2>
+<h2>Installation</h2>
+<h3>Prerequisites</h3>
 <p>The FFspider program has several external dependencies that need to be installed before use:</p>
 <ul>
   <li><a href="https://github.com/google/gumbo-parser">Gumbo</a>: Gumbo is a library used for parsing HTML and extracting information from web pages.</li>
@@ -28,3 +29,16 @@
 </ul>
 <p>Please make sure to install these dependencies before proceeding with the FFspider program.</p>
 
+<h3>Building FFspider</h3>
+<p>FFspider is primarily designed to run on the Microsoft Windows platform (Windows 10 and above). The compilation process has been tested using Microsoft Visual Studio 2022. To build FFspider, please follow these steps:</p>
+<ol>
+  <li>Clone the FFspider repository from GitHub.</li>  
+  <li>If you haven't already, install the vcpkg package manager: <code>git clone https://github.com/Microsoft/vcpkg.git</code></li>
+  <li>Integrate vcpkg with Visual Studio: <code>vcpkg integrate install</code></li>
+  <li>Install the required packages using vcpkg. For example, to install Gumbo and Sqlite_orm, use the following commands: <code>vcpkg install gumbo:x64-windows</code></li>
+  <li>Create or open the project in Microsoft Visual Studio 2022.</li>
+  <li>It is recommended to compile FFspider in x64 mode for optimal performance and compatibility.</li>
+  <li>Build the FFspider project.</li>
+</ol>
+
+<p>After successful compilation and execution, you will be able to use FFspider for crawling websites and processing/storing images on a local machine.</p>
