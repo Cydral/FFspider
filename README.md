@@ -6,6 +6,9 @@
 <p>FFspider is a multi-threaded web crawler and data extraction tool designed for iterative site discovery. It is an all-in-one file that allows users to initiate site crawling starting from a provided URL. Please note that this crawler is relatively simple and does not meet the criteria of a "polite crawler" as it does not handle for instance load management on the target sites.</p>
 <p>Initially created for internal needs, FFspider was developed to assist in the creation of image databases for AI research projects and the creation and the relevance evaluation of CNN models.</p>
 
+<h2>Disclaimer</h2>
+<p>Please exercise caution and adhere to privacy and legal regulations when using web scraping capabilities. Respect the terms of service and privacy policies of the websites you crawl, and ensure that you have the necessary permissions and rights to access and process the data. It is your responsibility to use this tool in a responsible and ethical manner.</p>
+
 <h2>Features</h2>
 <ul>
   <li>Multi-threaded crawling for improved performance.</li>
