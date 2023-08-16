@@ -46,7 +46,7 @@
 <p>After successful compilation and execution, you will be able to use FFspider for crawling websites and processing/storing images on a local machine.</p>
 
 <h2>License</h2>
-<p>FFspider is released under the <a href="https://github.com/your/repository/blob/main/LICENSE">MIT License</a>.</p>
+<p>FFspider is released under the <a href="https://github.com/Cydral/FFspider/blob/main/LICENSE">MIT License</a>.</p>
 
 <h2>Contact</h2>
 <p>For any questions or feedback, feel free to reach out to us through the GitHub repository.</p>
